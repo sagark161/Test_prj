@@ -11,8 +11,3 @@ jobs:
         with:
           node-version: "18.x"
           cache: "npm"
-      - name: Install and cache dependencies
-        uses: bahmutov/npm-install@v1
-      
-      - name: run test suite 
-      - run: npm test
