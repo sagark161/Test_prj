@@ -8,4 +8,3 @@ describe('Test Suite1', () => {
 
 //to stage
 
-//for local
