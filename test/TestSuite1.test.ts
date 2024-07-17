@@ -3,8 +3,11 @@ describe('Test Suite1', () => {
         expect(1+3).toBe(4)
     })
 
-    //dipali changes
+    it('Test case2',() =>{
+        expect(1+3).toBe(4)
+    })
+   
 })
 
-//to stage
+//to stageadd
 
